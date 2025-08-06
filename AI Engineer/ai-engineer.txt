@@ -1,0 +1,107 @@
+Pre-requisites (One of these)
+Scrimba is offering 20% off to roadmap users
+on their AI Engineer course that covers this
+roadmap in depth. Check them out!AI Engineer
+IntroductionWhat is an AI Engineer?
+AI Engineer vs ML Engineer
+LLMs
+Inference
+Training
+Embeddings
+Vector Databases
+RAG
+Prompt EngineeringAI AgentsAI vs AGI
+Common TerminologyFind the detailed version of this roadmap
+along with other similar roadmaps
+roadmap.shFrontend Backend Full-Stack
+Impact on Product Development
+Roles and Responsiblities
+Using Pre-trained Models
+Pre-trained ModelsBenefits of Pre-trained Models
+Limitations and Considerations
+Popular AI ModelsOpen AI Models
+Capabilities / Context Length
+Cut-off Dates / Knowledge
+Anthropic's Claude
+Google's Gemini
+Azure AI AWS Sagemaker
+Hugging Face Models
+Mistral AI CohereOpenAI Models
+Open AI Platform
+OpenAI APIChat Completions API
+Writing Prompts
+Open AI Playground
+Fine-tuningManaging TokensMaximum Tokens
+Token Counting
+Pricing Considerations
+Prompt Engineering RoadmapAI Safety and Ethics
+Understanding AI Safety IssuesPrompt Injection Attacks
+Bias and FarenessSecurity and Privacy Concerns
+Conducting adversarial testingOpenAI Moderation API
+Adding end-user IDs in prompts
+Robust prompt engineering
+Know your Customers / Usecases
+Constraining outputs and inputs
+Safety Best PracticesOpenSource AIOpen vs Closed Source Models
+Popular Open Source Models
+Hugging Face
+Hugging Face HubHugging Face TasksFinding Open Source Models
+Using Open Source Models
+Inference SDK
+Transformers.js
+Ollama
+Ollama Models
+Ollama SDKWhat are Embeddings
+Semantic Search
+Recommendation Systems
+Anomaly DetectionData ClassificationEmbeddings & Vector Databases
+Use Cases for EmbeddingsOpen AI Embeddings APIOpen AI Embedding Models
+Pricing Considerations
+Open-Source EmbeddingsSentence Transformers
+Models on Hugging Face
+Vector Databases
+Purpose and Functionality
+Chroma Pinecone
+Weaviate FAISS
+LanceDB Qdrant
+Supabase
+MongoDB AtlasPopular Vector DBs (pick one)
+Indexing Embeddings
+Performing Similarity SearchImplementing Vector SearchRAG & ImplementationRAG Usecases
+RAG vs Fine-tuning
+Chunking
+Embedding
+Vector Database
+Retrieval Process
+GenerationImplementing RAG
+Ways of Implementing RAG
+Using SDKs Directly
+Langchain Llama IndexOpen AI Assistant APIReplicate
+AI AgentsRAG Alternative
+Agents Usecases
+Prompt Engineering
+ReAct Prompting
+Manual Implementation
+OpenAI Functions / Tools
+OpenAI Assistant APIBuilding AI Agents
+Multimodal AI Multimodal AI Usecases
+Image Understanding
+Image Generation
+Video Understanding
+Audio Processing
+Text-to-Speech
+Speech-to-Text
+Multimodal AI TasksOpenAI Vision API
+DALL- E API
+Whisper API
+Hugging Face Models
+LangChain for Multimodal Apps
+LlamaIndex for Multimodal Apps
+Implementing Multimodal AI
+Continue learning with following relevant tracks
+AI & Data Scientist Prompt EngineeringDevelopment ToolsAI Code Editors
+Code Completion ToolsScrimba - AI Engineer Path
+Related Roadmaps
+AI and Data Scientist Roadmap
+Prompt Engineering
+Data Analyst Roadamp
