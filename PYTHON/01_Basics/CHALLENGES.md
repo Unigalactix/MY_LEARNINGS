@@ -451,7 +451,7 @@ Test with: `"user_name"`, `"2nd_user"`, `"_private"`, `"if"`, `"userName"`, `"us
 ```python
 # Variable Naming Convention Checker
 
-import keyword
+import keyword  # Built-in Python module - no installation needed!
 
 def check_variable_name(name):
     """

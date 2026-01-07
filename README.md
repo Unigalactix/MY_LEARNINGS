@@ -137,6 +137,8 @@ Each section includes:
 #### Path 1: Complete Beginner (No Programming Background)
 **Duration**: 36-40 weeks | **Commitment**: 5-7 hours/week
 
+> **Note**: These timelines are estimates and can vary significantly based on individual learning pace, prior experience, and time commitment. Some learners may progress faster, others may need more time. Adjust the pace to match your learning style and schedule.
+
 | Weeks | Track | Topics | Milestones |
 |-------|-------|--------|------------|
 | 1-12 | Python | Basics → Functions → OOP | Build simple CLI programs |
