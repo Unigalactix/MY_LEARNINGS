@@ -1,6 +1,6 @@
 # My Programming Learning Journey 🚀
 
-A comprehensive collection of learning materials covering Python, SQL, Data Structures & Algorithms (DSA), and AI Engineering - structured from beginner to advanced level with interactive elements, quizzes, and hands-on challenges.
+A comprehensive collection of learning materials covering Python, SQL, Data Structures & Algorithms (DSA), Git & GitHub, and AI Engineering - structured from beginner to advanced level with interactive elements, quizzes, and hands-on challenges.
 
 ## 📁 Repository Structure
 
@@ -48,6 +48,15 @@ MY_LEARNINGS/
 │   ├── 11_Dynamic_Programming/ # DP patterns and solutions
 │   └── README.md          # DSA learning guide
 │
+├── Git_and_GitHub/        # Version Control with Git & GitHub
+│   ├── 01_Git_Basics/     # Init, add, commit, log, status
+│   ├── 02_Branching_and_Merging/ # Branches, merge, conflicts
+│   ├── 03_GitHub_Essentials/ # Remote repos, push, pull, clone
+│   ├── 04_Collaboration/  # Pull requests, code reviews, issues
+│   ├── 05_Advanced_Git/   # Rebase, cherry-pick, stash, hooks
+│   ├── 06_Best_Practices/ # Workflows, conventions, automation
+│   └── README.md          # Git & GitHub learning guide
+│
 └── AI Engineer/           # AI Engineering path
     ├── 01_Basics/         # Introduction to AI Engineering
     ├── 02_Advanced_Topics/ # LLMs, RAG, Embeddings
@@ -79,6 +88,12 @@ MY_LEARNINGS/
 - **Advanced**: Learn dynamic programming, greedy algorithms, and optimization
 - **Time**: 10-16 weeks with consistent practice
 
+### Git & GitHub Track 🔄
+- **Beginner**: Master Git basics, commits, and local repository management
+- **Intermediate**: Learn branching, merging, GitHub collaboration, and pull requests
+- **Advanced**: Understand rebasing, hooks, workflows, and team collaboration
+- **Time**: 4-8 weeks to become proficient
+
 ### AI Engineering Track 🤖
 - **Beginner**: Learn AI fundamentals, prompt engineering, and pre-trained models
 - **Intermediate**: Understand LLMs, RAG, embeddings, and vector databases
@@ -104,6 +119,13 @@ MY_LEARNINGS/
 2. Start with `DSA/00_Overview/` to understand complexity
 3. Practice with provided examples in each folder
 4. Run examples: `python ./DSA/01_Arrays/two_sum.py`
+
+### Git & GitHub Setup
+1. Install Git from [git-scm.com](https://git-scm.com/)
+2. Configure: `git config --global user.name "Your Name"`
+3. Create GitHub account at [github.com](https://github.com/)
+4. Start with `Git_and_GitHub/01_Git_Basics/`
+5. Follow the interactive tutorials and challenges
 
 ### AI Engineering Setup
 1. No programming experience required to start!
@@ -254,6 +276,13 @@ Focus on specific areas:
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [GeeksforGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
 
+### Git & GitHub Resources
+- [Git Documentation](https://git-scm.com/doc) - Official Git docs
+- [GitHub Docs](https://docs.github.com/) - GitHub documentation
+- [Learn Git Branching](https://learngitbranching.js.org/) - Interactive tutorial
+- [Pro Git Book](https://git-scm.com/book/en/v2) - Free comprehensive book
+- [GitHub Skills](https://skills.github.com/) - Hands-on GitHub courses
+
 ### AI Engineering Resources
 - [OpenAI Documentation](https://platform.openai.com/docs)
 - [Hugging Face](https://huggingface.co/) - Models and datasets
@@ -288,7 +317,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Repository Stats
 
-- **4 Complete Learning Tracks** with structured curriculum
+- **5 Complete Learning Tracks** with structured curriculum
 - **100+ Code Examples** with detailed explanations
 - **Interactive Quizzes** throughout each track
 - **Hands-on Challenges** for practical learning
